@@ -64,7 +64,6 @@ public class ctciQ1 {
 				return false;
 			}
 		}
-		
 		return true;
 	}
 }
